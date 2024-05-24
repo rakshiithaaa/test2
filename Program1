@@ -27,7 +27,7 @@ public class ProdMatrix
             
         //For two matrices to be multiplied,     
         //number of columns in first matrix must be equal to number of rows in second matrix    
-        if(col1 != row2){    
+        if(col1 != row2);{    
             System.out.println("Matrices cannot be multiplied");    
         }    
         else{    
